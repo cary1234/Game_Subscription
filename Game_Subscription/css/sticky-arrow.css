@@ -1,0 +1,33 @@
+#arrowright{ 
+	width: 190px; 
+	position: fixed; 
+	left: 54%; 
+	top: 260px; 
+	margin: 0 0 0 110px;
+    z-index: 99999;
+}
+#arrowleft { 
+	width: 190px; 
+	position: fixed; 
+	left: -22%; 
+	top: 260px; 
+	margin: 0 0 0 110px;
+    z-index: 99999;
+}
+#center { 
+	width: 190px; 
+	position: fixed; 
+	left: 17%; 
+	top: 100px; 
+	margin: 0 0 0 110px;
+    z-index: 99999;
+}
+#center1 { 
+	width: 190px; 
+	position: fixed; 
+	left: -3%; 
+	top: 480px; 
+	margin: 0 0 0 110px;
+    z-index: 99999;
+}
+
